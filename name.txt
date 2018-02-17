@@ -1,2 +1,6 @@
 Gopikrishna
+<<<<<<< HEAD
 my name is ankit
+=======
+Hello My name is Gopikrishna
+>>>>>>> 6372ac539e8efda06955a754620fd3aacecfe058
